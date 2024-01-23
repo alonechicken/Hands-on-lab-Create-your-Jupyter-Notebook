@@ -1,2 +1,2 @@
-# Hands-on-lad-Create-your-Jupyter-Notebook
+# Hands-on-lab-Create-your-Jupyter-Notebook
 First Jupyter Book Assignment
